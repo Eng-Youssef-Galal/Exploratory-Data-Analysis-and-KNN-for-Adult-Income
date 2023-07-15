@@ -1,4 +1,6 @@
 # Exploratory-Data-Analysis-and-KNN-for-Adult-Income
+# EDA (Exploratory Data Analysis) Report Deployment
+https://eng-youssef-galal.github.io/Exploratory-Data-Analysis-and-KNN-for-Adult-Income/
 
 # About Dataset
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
